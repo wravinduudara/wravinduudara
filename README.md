@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...<br>
 <ul type="box">
 <li>IT stdent at OUSL</li>
-🖥　I completed
-<li><a href="https://www.coursera.org/account/accomplishments/verify/U0MISTOP6XWU?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse">google cybersecurity certificate</a></li>
+<li>🖥　I completed<a href="https://www.coursera.org/account/accomplishments/verify/U0MISTOP6XWU?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse">google cybersecurity certificate</a></li>
 </ul>
