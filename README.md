@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Ravindu 👋</h1>
+<h1 align="center">I'm Ravindu Udara </h1>
 
 <p align="center">
   BSc IT student at the Open University of Sri Lanka (OUSL)<br>
-  Teaching myself <b>web application security</b>
+  learning <b>web application security</b> from PortSwigger
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@ Work in cybersecurity, starting with bug bounty and junior security roles. My de
 
 | Platform | What I'm doing | Status |
 |---|---|---|
-| [PortSwigger Web Security Academy](https://portswigger.net/web-security) | Authentication and SQL injection labs | 🔄 21 labs done |
-| [OverTheWire Bandit](https://overthewire.org/) | Linux and command-line basics | 🔄 In progress |
+| PortSwigger Web Security Academy | Authentication and SQL injection labs | 🔄 in progress |
+| OverTheWire Bandit | Linux and command-line basics | 🔄 In progress |
 | TryHackMe | Pre Security | ✅ [Completed](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-O9XDGIJJTO.pdf) |
 | University | Java, system analysis & design, computer security theory | 📚 Ongoing |
 
@@ -34,7 +34,7 @@ Work in cybersecurity, starting with bug bounty and junior security roles. My de
 
 ## 📂 My notes
 <!-- - 📘 [security-notes](https://github.com/wravinduudara/security-notes): lab writeups and theory notes -->
-🐧 [overthewire](https://github.com/wravinduudara/overthewire): Bandit level notes
+<!-- -🐧 [overthewire](https://github.com/wravinduudara/overthewire): Bandit level notes -->
 
 ## 📫 Find me
 - 💼 LinkedIn: <!-- -add your link here -->
