@@ -8,8 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20Security-0b7a75?style=for-the-badge" alt="Focus: Web Security">
   <img src="https://img.shields.io/badge/TryHackMe-Pre%20Security-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Pre Security">
-  <img src="https://img.shields.io/badge/PortSwigger-In%20Progress-ff6633?style=for-the-badge" alt="PortSwigger in progress">
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-blue?style=for-the-badge" alt="Sri Lanka">
+  <img src="https://img.shields.io/badge/PortSwigger-In%20Progress-ff6633?style=for-the-badge&logo=PortSwigger&logocolor=white" alt="PortSwigger in progress">
 </p>
 
 ---
