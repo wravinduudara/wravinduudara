@@ -30,7 +30,6 @@ Work in cybersecurity, starting with bug bounty and junior security roles. My de
   <img src="https://skillicons.dev/icons?i=idea,linux,git,github" alt="Java, Linux, Git, GitHub">
 </p>
 
-<sub>Only keep icons for tools you really use. Add more as you learn them.</sub>
 
 ## 📂 My notes
 <!-- - 📘 [security-notes](https://github.com/wravinduudara/security-notes): lab writeups and theory notes -->
