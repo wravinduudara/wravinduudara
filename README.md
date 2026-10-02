@@ -37,7 +37,7 @@ Work in cybersecurity, starting with bug bounty and junior security roles. My de
 <!-- -🐧 [overthewire](https://github.com/wravinduudara/overthewire): Bandit level notes -->
 
 ## 📫 Find me
-- 💼 LinkedIn: <!-- -add your link here -->
+- 💼 LinkedIn: [@wravindu](https://www.linkedin.com/in/wravindu/)
 - 🔗 GitHub: [@wravinduudara](https://github.com/wravinduudara)
 
-<p align="center"><sub>Learning in public, one lab at a time.</sub></p>
+<p align="center"><sub>Learning for future.</sub></p>
